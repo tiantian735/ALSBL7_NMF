@@ -1,1 +1,2 @@
-from . import CustomColorMap
+from . import *
+from .NMF import *
