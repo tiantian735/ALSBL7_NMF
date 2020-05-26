@@ -8,6 +8,6 @@
 
 
 #matplotlib example:
-#                   embedded plot scrollbar example
-#                   embedded plot tab example with select
-#                   embedded plot tab example
+                #embedded plot scrollbar example
+                #embedded plot tab example with select
+                #embedded plot tab example
